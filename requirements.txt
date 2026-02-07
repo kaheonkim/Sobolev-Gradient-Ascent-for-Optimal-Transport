@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scipy
+kagglehub
+Pillow         
+scikit-image   
+POT            
+pybind11
+
