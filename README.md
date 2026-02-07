@@ -32,3 +32,7 @@ This paper introduces a new constraint-free concave dual formulation for the Was
 - scipy
 - BFM
 - POT(for comparison)
+- kagglehub
+- Pillow
+- scikit-image
+- pybind11
