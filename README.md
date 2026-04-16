@@ -1,5 +1,5 @@
 # Sobolev Gradient Ascent for Optimal Transport: Barycenter Optimization and Convergence Analysis
-link : https://arxiv.org/abs/2505.13660
+link : https://openreview.net/forum?id=IjL1xEoxXi 
 
 **Kaheon Kim, Bohan Zhou, Changbo Zhu, and Xiaohui Chen**  
 *International Conference on Learning Representation (ICLR), 2026*
